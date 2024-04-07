@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MenuInicial.unity
+    guid: 86e30e0bef261ba419d9bb500e60f4b9
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Scrum.unity
+    guid: e4d2d7272b704b24b83313fecf06e5b2
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Relatorios/Relatorios.unity
+    guid: 2cce1b90c2422b245bd0fe816300df90
+  - enabled: 1
+    path: Assets/Scenes/XP/XP.unity
+    guid: fdafa9effd15ef5449a9655b0f03d28b
+  - enabled: 1
+    path: Assets/Scenes/XP/Relatorio/RelatoriosXP.unity
+    guid: 0359f68794653a044a63037725623c13
+  - enabled: 1
+    path: Assets/Scenes/XP/Cadastro/CadastrosXP.unity
+    guid: dd237a71e3b728a41a4eb129fbefa34e
+  - enabled: 1
+    path: Assets/Scenes/XP/Relatorio/CenasRelatorios/RelatorioReleaseXP.unity
+    guid: 5c259485456ab834db1e4defe3f46e94
+  - enabled: 1
+    path: Assets/Scenes/XP/Cadastro/Cadastros/CadastroReleaseXP.unity
+    guid: 61f359da4879b7e47bb9cd56d05255f0
+  - enabled: 1
+    path: Assets/Scenes/XP/Cadastro/Cadastros/CadastroHistoriaXP.unity
+    guid: eed8b09fc7b5e9249b9d59a56e4d0f6f
+  - enabled: 1
+    path: Assets/Scenes/XP/Cadastro/Cadastros/CadastroIteracaoXP.unity
+    guid: 4bcd39ea5989af145bd1c3fa4be6ac0f
+  - enabled: 1
+    path: Assets/Scenes/XP/Cadastro/Cadastros/CadastroTarefaXP.unity
+    guid: ab5a1f12ff2cfdc4395e4d55e9487952
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Relatorios/Relatorios/RelatorioBacklogSprintScrum.unity
+    guid: 64c39d61a3b73034e8d746cd27f2f863
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Relatorios/Relatorios/RelatorioTarefaScrum.unity
+    guid: cb5000b089a518449a49d718e0aba303
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Relatorios/Relatorios/RelatorioBacklogProdutoScrum.unity
+    guid: 4f98065172979d741b702e35cb289cc7
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Cadastros/CadastroScrum.unity
+    guid: dc3be699b04759f4bb66021e1c66a0d8
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Cadastros/Cadastros/CadastroSprintScrum.unity
+    guid: 87141ee1f9072f44b8839f169f29b4fa
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Cadastros/Cadastros/CadastroTarefaScrum.unity
+    guid: 8c08c6874d4e0ef46b9ec370c9d4d6cd
+  - enabled: 1
+    path: Assets/Scenes/XP/Relatorio/CenasRelatorios/RelatorioHistoriaXP.unity
+    guid: 8eed4971951ed1949a52286c3f899196
+  - enabled: 1
+    path: Assets/Scenes/XP/Relatorio/CenasRelatorios/RelatorioIteracaoXP.unity
+    guid: 9b4f727c7b683394384136732810397c
+  - enabled: 1
+    path: Assets/Scenes/XP/Relatorio/CenasRelatorios/RelatorioTarefaXP.unity
+    guid: 2a8295376e7d456468fc39c2c47f8613
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Cadastros/Cadastros/CadastroBacklogProdutoScrum.unity
+    guid: 92637652d38d505478f680e2db6fa8d1
+  - enabled: 1
+    path: Assets/Scenes/Scrum/Burndown/BurndownScrum.unity
+    guid: e92026ab0a77e714da85c81bcb72df80
+  m_configObjects: {}
