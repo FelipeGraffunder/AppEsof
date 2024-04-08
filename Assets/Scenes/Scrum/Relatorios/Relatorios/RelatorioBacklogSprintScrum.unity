@@ -1975,7 +1975,7 @@ PrefabInstance:
       objectReference: {fileID: 674091084}
     - target: {fileID: 7608443024683263732, guid: 1c4ebc23ec00dcb40b345baa16056dad, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: CadastroScrumButton
+      value: RelatoriosScrumButton
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

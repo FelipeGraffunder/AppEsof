@@ -395,6 +395,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: CadastroBacklogProdutoScrum, Assembly-CSharp
       objectReference: {fileID: 0}
+    - target: {fileID: 4388817690910235218, guid: ad241fdc3fee0564eaf0aa4c343b3f75, type: 3}
+      propertyPath: m_LineType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6368874272822528435, guid: ad241fdc3fee0564eaf0aa4c343b3f75, type: 3}
       propertyPath: m_Pivot.x
       value: 0
